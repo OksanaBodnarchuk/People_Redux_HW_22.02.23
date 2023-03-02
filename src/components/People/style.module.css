@@ -1,0 +1,17 @@
+.one_people {
+  display: flex;
+  margin: 10px 5px;
+  padding: 5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgb(165, 166, 167);
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.name {
+  color: white;
+  margin: 5px;
+}

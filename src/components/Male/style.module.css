@@ -1,0 +1,17 @@
+.p_man {
+  color: white;
+  margin: 5px;
+}
+
+.cont_male {
+  display: flex;
+  margin: 10px 5px;
+  padding: 5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(44, 44, 74, 0.902);
+}
+
+.div_male {
+  display: flex;
+}
